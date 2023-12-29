@@ -1,1 +1,1 @@
-print("Я тренируюсь с Git!!!")
+print("Happy New YEAR!!!")
